@@ -1,0 +1,126 @@
+1701329848648	geckodriver	INFO	Listening on 127.0.0.1:64779
+1701329851587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64780" "--remote ... "-no-remote" "-profile" "c:\\Users\\yohanes.nugroho\\AppData\\Local\\robocorp\\temp\\999999015715ef52\\rust_mozprofileOPGHD9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701329852110	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701329852195	Marionette	INFO	Listening on port 64844
+WebDriver BiDi listening on ws://127.0.0.1:64780
+Read port: 64844
+1701329852424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64780/devtools/browser/220dfd04-31be-4cc4-8301-5819f9d7ebbb
+Extension error: TypeError: items is null moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js 869
+[[Exception stack
+G_cp_qd@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:869:260
+G_cp_Lc/<@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js 361
+[[Exception stack
+a@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js 869
+[[Exception stack
+G_cp_qd@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:869:260
+G_cp_Lc/<@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+JavaScript error: moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js, line 753: TypeError: items is null
+Extension error: TypeError: items is null moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js 361
+[[Exception stack
+a@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js 361
+[[Exception stack
+a@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js 869
+[[Exception stack
+G_cp_qd@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:869:260
+G_cp_Lc/<@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js 365
+[[Exception stack
+G_cp_Lc/<@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:365:59
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+]]
+Extension error: TypeError: items is null moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js 869
+[[Exception stack
+G_cp_qd@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:869:260
+G_cp_Lc/<@moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+JavaScript error: moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js, line 623: AbortError: AbortError
+JavaScript error: moz-extension://fb8d1f82-803f-4ce4-bbcc-6e46f0b271de/background.js, line 623: AbortError: AbortError
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+1701329865365	Marionette	INFO	Stopped listening on port 64844
+JavaScript warning: https://robotsparebinindustries.com/static/js/main.a5c0095d.js, line 2: Script terminated by timeout at:
+Qt@https://robotsparebinindustries.com/static/js/main.a5c0095d.js:2:22933
+
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953825
+Dynamically enable window occlusion 1

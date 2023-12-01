@@ -1,0 +1,84 @@
+1701327604085	geckodriver	INFO	Listening on 127.0.0.1:62825
+1701327607068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62826" "--remote ... "-no-remote" "-profile" "c:\\Users\\yohanes.nugroho\\AppData\\Local\\robocorp\\temp\\50a8fe229ee7514c\\rust_mozprofileIa9U8B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701327607510	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701327607588	Marionette	INFO	Listening on port 62834
+WebDriver BiDi listening on ws://127.0.0.1:62826
+Read port: 62834
+1701327607815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62826/devtools/browser/71657cac-f7c7-4758-a548-4d9ecc670b09
+Extension error: TypeError: items is null moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js 869
+[[Exception stack
+G_cp_qd@moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js:869:260
+G_cp_Lc/<@moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js 361
+[[Exception stack
+a@moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js 869
+[[Exception stack
+G_cp_qd@moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js:869:260
+G_cp_Lc/<@moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:698:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+JavaScript error: moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js, line 753: TypeError: items is null
+JavaScript error: moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js, line 623: AbortError: AbortError
+JavaScript error: moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js, line 623: AbortError: AbortError
+JavaScript error: moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/background.js, line 623: AbortError: AbortError
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+1701327637649	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: moz-extension://e0a5e675-66f7-46a1-b1c6-af94b58c2bdf/data/content_script.js, line 225: TypeError: h is undefined
+console.error: services.settings: 
+  Message: StorageError: Storage error: UnknownError: IndexedDB: main/doh-providers importChanges() IndexedDB:  importChanges() in main/doh-providers The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:153:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:924:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:  execute() The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+console.error: (new RemoteSettingsWorkerError("UnknownError: IndexedDB:  execute() The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1701327639198	Marionette	INFO	Stopped listening on port 62834
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953819
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/message-groups getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))

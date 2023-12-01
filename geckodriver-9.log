@@ -1,0 +1,15 @@
+1701318983173	geckodriver	INFO	Listening on 127.0.0.1:58891
+1701318986137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58892" "--remote ... "-no-remote" "-profile" "c:\\Users\\yohanes.nugroho\\AppData\\Local\\robocorp\\temp\\469bad0ed50d31c2\\rust_mozprofileoMthXN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701318986583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701318986660	Marionette	INFO	Listening on port 58901
+WebDriver BiDi listening on ws://127.0.0.1:58892
+Read port: 58901
+1701318986866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58892/devtools/browser/44d2f4b1-9902-4a79-835c-936ad518f0a8
+JavaScript error: moz-extension://5124d442-1cfa-4d1c-9287-05147381b9ed/background.js, line 623: AbortError: AbortError
+1701318998445	Marionette	INFO	Stopped listening on port 58901
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953819
+Dynamically enable window occlusion 1

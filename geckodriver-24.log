@@ -1,0 +1,28 @@
+1701333286195	geckodriver	INFO	Listening on 127.0.0.1:52080
+1701333289144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52081" "--remote ... "-no-remote" "-profile" "c:\\Users\\yohanes.nugroho\\AppData\\Local\\robocorp\\temp\\21a98e119b2e76ae\\rust_mozprofilekbWakr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701333289587	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701333289664	Marionette	INFO	Listening on port 52094
+WebDriver BiDi listening on ws://127.0.0.1:52081
+Read port: 52094
+1701333289872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52081/devtools/browser/e52cc8a6-2ec3-4dd0-af52-77f6d32e6077
+JavaScript error: moz-extension://0aa826ce-4f63-4687-96d5-9f3f4a794524/background.js, line 623: AbortError: AbortError
+JavaScript error: moz-extension://0aa826ce-4f63-4687-96d5-9f3f4a794524/background.js, line 623: AbortError: AbortError
+JavaScript error: moz-extension://0aa826ce-4f63-4687-96d5-9f3f4a794524/data/content_script.js, line 225: TypeError: h is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+1701333319792	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+1701333350381	Marionette	INFO	Stopped listening on port 52094
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953817
+Dynamically enable window occlusion 1
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping

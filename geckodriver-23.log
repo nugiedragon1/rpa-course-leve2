@@ -1,0 +1,24 @@
+1701333158466	geckodriver	INFO	Listening on 127.0.0.1:51897
+1701333161458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51898" "--remote ... "-no-remote" "-profile" "c:\\Users\\yohanes.nugroho\\AppData\\Local\\robocorp\\temp\\cb6cc8e3543aa859\\rust_mozprofile3VB3Ax"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701333161923	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701333161998	Marionette	INFO	Listening on port 51907
+Read port: 51907
+WebDriver BiDi listening on ws://127.0.0.1:51898
+1701333162092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51898/devtools/browser/3cc990c2-9f07-43b6-8fd7-14d607da2f34
+JavaScript error: moz-extension://14222bd8-2fd6-4a6e-a232-137b552581a4/background.js, line 623: AbortError: AbortError
+JavaScript error: moz-extension://14222bd8-2fd6-4a6e-a232-137b552581a4/background.js, line 623: AbortError: AbortError
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+JavaScript error: moz-extension://14222bd8-2fd6-4a6e-a232-137b552581a4/data/content_script.js, line 225: TypeError: h is undefined
+1701333174347	Marionette	INFO	Stopped listening on port 51907
+JavaScript warning: moz-extension://14222bd8-2fd6-4a6e-a232-137b552581a4/background.js, line 624: Script terminated by timeout at:
+C@moz-extension://14222bd8-2fd6-4a6e-a232-137b552581a4/background.js:624:356
+
+JavaScript warning: https://robotsparebinindustries.com/static/js/main.a5c0095d.js, line 2: Script terminated by timeout at:
+$t@https://robotsparebinindustries.com/static/js/main.a5c0095d.js:2:23046
+
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953789
+Dynamically enable window occlusion 1

@@ -1,0 +1,21 @@
+1701330391170	geckodriver	INFO	Listening on 127.0.0.1:50525
+1701330394148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50526" "--remote ... "-no-remote" "-profile" "c:\\Users\\yohanes.nugroho\\AppData\\Local\\robocorp\\temp\\8a7e98ae60e425dc\\rust_mozprofileGwMTQ5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701330394587	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701330394662	Marionette	INFO	Listening on port 50535
+WebDriver BiDi listening on ws://127.0.0.1:50526
+Read port: 50535
+1701330394863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50526/devtools/browser/9ab6515d-daa0-4d42-a6a9-5f25008b45a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://robotsparebinindustries.com."
+1701330407125	Marionette	INFO	Stopped listening on port 50535
+JavaScript warning: moz-extension://b7b7695f-67a8-44ec-9ea0-d0a6154736c0/background.js, line 624: Script terminated by timeout at:
+C@moz-extension://b7b7695f-67a8-44ec-9ea0-d0a6154736c0/background.js:624:356
+
+JavaScript warning: moz-extension://b7b7695f-67a8-44ec-9ea0-d0a6154736c0/data/content_script.js, line 214: Script terminated by timeout at:
+G_cp_5c/<@moz-extension://b7b7695f-67a8-44ec-9ea0-d0a6154736c0/data/content_script.js:214:87
+
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953819
+Dynamically enable window occlusion 1

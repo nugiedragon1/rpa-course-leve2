@@ -1,0 +1,15 @@
+1701318578248	geckodriver	INFO	Listening on 127.0.0.1:57252
+1701318581216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57253" "--remote ... "-no-remote" "-profile" "c:\\Users\\yohanes.nugroho\\AppData\\Local\\robocorp\\temp\\98c0a63d1ced9fe6\\rust_mozprofiler3bcG4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701318581654	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701318581730	Marionette	INFO	Listening on port 57260
+WebDriver BiDi listening on ws://127.0.0.1:57253
+Read port: 57260
+1701318581932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57253/devtools/browser/d4e0e907-4935-4af8-8293-e60e9a6e6d26
+JavaScript error: moz-extension://c79f5fbe-3f72-4a1f-b8b1-283b75c7d644/background.js, line 95: TypeError: items.supported_file_override_actions_upload_protection is undefined
+1701318593602	Marionette	INFO	Stopped listening on port 57260
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953825
+Dynamically enable window occlusion 1
